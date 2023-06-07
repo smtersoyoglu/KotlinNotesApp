@@ -1,3 +1,3 @@
 # KotlinNotesApp
 MVVM-Room database-fragments
-![notesApp](https://github.com/smtersoyoglu/KotlinNotesApp/assets/77547002/d4ee152a-a4c5-46f7-81ef-2eeb2d53fca1)
+![notesApp](https://github.com/smtersoyoglu/KotlinNotesApp/assets/77547002/cbe786a3-a03d-4b35-b84b-01e7bb91e385)
